@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "68991609910",
+    "project_id": "health-ai-3a504",
+    "storage_bucket": "health-ai-3a504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68991609910:android:6506359183d2e07395fc97",
+        "android_client_info": {
+          "package_name": "com.arisesoft.health.ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68991609910-g1i2ht6n37cpd1fkcgmono3ua6dg5rl3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arisesoft.health.ai",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "68991609910-adaj81ltrs0hr42l1qeioo1kvevvn5hj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJAsNFnON-R_E5E4Qi48uR_bKPTuZBlds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68991609910-adaj81ltrs0hr42l1qeioo1kvevvn5hj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "68991609910-cqvifu5951a37hsutvp7v39ij29vds76.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arisesoft.health.ai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
